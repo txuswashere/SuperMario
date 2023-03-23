@@ -118,7 +118,7 @@
 ![https://www.mariowiki.com/](https://github.com/txuswashere/SuperMario/raw/main/SuperMario/2003_GCN_MarioKartDoubleDash.jpg)
 ![https://www.mariowiki.com/](https://github.com/txuswashere/SuperMario/raw/main/SuperMario/2003_GCN_MarioParty5.jpg)
 ![https://www.mariowiki.com/](https://github.com/txuswashere/SuperMario/raw/main/SuperMario/2003_MarioGolfToadstoolTour.jpg)
-![https://www.mariowiki.com/](https://github.com/txuswashere/SuperMario/raw/main/SuperMario/2003_MarioGolfToadstoolTour.jpg).jpg)
+![https://www.mariowiki.com/](https://github.com/txuswashere/SuperMario/raw/main/SuperMario/2003_MarioGolfToadstoolTour.jpg.jpg)
 ![https://www.mariowiki.com/](https://github.com/txuswashere/SuperMario/raw/main/SuperMario/2003_MLSuperstarsaga.png)
 ![https://www.mariowiki.com/](https://github.com/txuswashere/SuperMario/raw/main/SuperMario/2003_MP5.jpg)
 ![https://www.mariowiki.com/](https://github.com/txuswashere/SuperMario/raw/main/SuperMario/2004_GBA_MarioVsDonkeyKong.jpg)
